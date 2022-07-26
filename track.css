@@ -1,7 +1,20 @@
-,top-section
-font-family: Georgia, 'Times New Roman', Times, serif;
+,top-section{
+    background-color: aqua;
+    font: 20px,  sans-serif;
+    font-family: 'Times New Roman', Times, serif;
+    color:blue;
+    text-align: center;
+    padding:10px;
+    border: 100px;
+    ,image-one{
+      background-size:20px;  
+      
+    }
 }
 
-image-section{
+body{
+ 
 
+
+    
 }
